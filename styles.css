@@ -1,3 +1,9 @@
 body {
-    background-color: hotpink;
+    background-color: rgba(149, 6, 168, 0.582);
+    color: rgb(120, 224, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+    background-color: rgb(162, 255, 100);
+    color: rgb(255, 94, 0);
 }
